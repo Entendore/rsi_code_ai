@@ -1,0 +1,9 @@
+tensorflow
+transformers
+chromadb
+e2b-code-interpreter
+z3-solver
+numpy
+pyyaml
+fastapi
+uvicorn
